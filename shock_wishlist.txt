@@ -1,4 +1,4 @@
 title:This is a test wishlist to try to figure out how this works and keep track of the weird stuff id love to get hold of
 
-dimwishlist:item=4248569242&perks=202670084,791862061,3300816228,957782887
-dimwishlist:item=4255586669&perks=1441682018,409831596,3300816228,1546637391
+dimwishlist:item=4248569242&perks=202670084,791862061,3300816228,957782887#notes:Shock's wishlist
+dimwishlist:item=4255586669&perks=1441682018,409831596,3300816228,1546637391#notes:Shock's wishlist
